@@ -1,5 +1,10 @@
 # ruby-Fizz-Buzz
 
+#### 安装test-unit
+```
+$ sudo gem install test-unit
+```
+
 #### 编写一个程序将１到n的数字以字符串输出，要求如下：
 
 1. 当数字为3的倍数时输出“Fizz”
