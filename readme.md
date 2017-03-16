@@ -14,7 +14,7 @@ $ sudo gem install test-unit
 n = 15,
 输出为:
 [
-    "1",
+    \"1\",
     "2",
     "Fizz",
     "4",
