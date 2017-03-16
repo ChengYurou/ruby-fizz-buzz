@@ -1,5 +1,5 @@
 require 'test/unit'
-load 'fizz-buzz.rb'
+require '../src/fizz-buzz'
 
 class FizzBuzzTest < Test::Unit::TestCase
   def test_judgeFB_is_right
